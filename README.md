@@ -1,1 +1,1 @@
-# http://postolenko.github.io/seogun_line/overview.html
+# http://postolenko.github.io/seogun_rule/overview.html
